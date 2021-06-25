@@ -1,5 +1,8 @@
+Federica Cabrera Git Study Material:
 VERSION CONTROL SYSTEMS
+
 Repo hosting services
+
 GIT / GITHUB
 Git: It lets you and others work together on projects from anywhere. Git is a content tracker, can be used to store content. The code stored keeps changing as more code is added (many developers can add code in parallel), but Git maintains a history of what changes have happened. The code is not just stored in a central server, but the full copy of the code is present in all the developers’ computers.  Git keeps track of every modification to the code in a database, if something breaks, you can turn back to an earlier version or just compare the changes.
 
