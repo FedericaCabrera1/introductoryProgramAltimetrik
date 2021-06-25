@@ -92,3 +92,7 @@ Once changes have been verified in production, it is time to merge your code int
 
 Trunk based development
 Very similar to GitHub Flow, the crucial difference is where the release is performed from. Trunk-Based Development suggests deployment after production code is merged to the main branch to minimize chances for regression. 
+
+
+
+
